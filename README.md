@@ -1,0 +1,5 @@
+# project-practice
+
+Set environment variables:
+export FLASK_APP = flaskblog.py
+export FLASK_DEBUG=1
